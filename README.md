@@ -192,7 +192,6 @@ Application deployed on **AWS EC2** with:
 # Repository Structure
 
 ChefMate-Restaurant-Clustering/
-│
 ├── data/
 ├── notebooks/
 ├── models/
@@ -214,20 +213,15 @@ ChefMate-Restaurant-Clustering/
 # Machine Learning Pipeline
 
 Dataset
-   │
-   ▼
+   >
 Data Cleaning
-   │
-   ▼
+   >
 Feature Engineering
-   │
-   ▼
+   >
 Restaurant Clustering
-   │
-   ▼
+   >
 Recommendation Engine
-   │
-   ▼
+   >
 Prediction & Visualization
 
 
@@ -275,8 +269,7 @@ This project helped me gain practical experience in:
 
 Add screenshots inside the **screenshots/** folder.
 
-screenshots/
-│
+screenshots
 ├── home.png
 ├── recommendation.png
 ├── chatbot.png
